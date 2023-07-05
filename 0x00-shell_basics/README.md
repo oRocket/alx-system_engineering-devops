@@ -12,3 +12,8 @@
 10-back #A script that changes the working directory to the previous one
 11-lists #A script listing all files including hidden ones in the current directory and the parent of the working directory with /boot
 12-file_type #A script that prints the file iamafile in the /tmp directory
+13-symbolic_link #Creating a symbolic link to /bin/ls, named _ls_.
+14-copy_html #A script that copies all the HTML files from the current working directory to the parent of the working directory
+100-lets_move #A script that moves all files beginning with an uppercase letter to the directory /tmp/u
+101-clean_emacs #A script that deletes all files in the current working directory that end with the character ~
+102-tree #A script that creates the directories welcome/, welcome/to, welcome/to/school
