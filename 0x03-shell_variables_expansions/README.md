@@ -4,4 +4,4 @@
 1-hello_you #A script that prints hello user, where user is the current Linux user.
 2-path #A script that add /action to the PATH.
 3-paths #A script that counts the number of directories in the PATH.
-4-
+4-global_variables #A script that list environment variables.
