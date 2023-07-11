@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((WATER=$((WATER + STIR))))"
+bestchol=$((WATER + STIR))
