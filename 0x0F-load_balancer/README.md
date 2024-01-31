@@ -20,6 +20,13 @@ sylvain@ubuntu$ curl -sI 54.89.38.100 | grep X-Served-By
 X-Served-By: 03-web-02
 sylvain@ubuntu$
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> d8249cc95e16a0eeaaf459f3d0e5c237e125bca0
+>>>>>>> 0f0605a6aa12a564df8d89a8415285544706792b
 ## 1-install_load_balancer
 Install and configure HAproxy on your lb-01 server.
 
