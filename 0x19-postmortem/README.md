@@ -30,3 +30,7 @@ Be brief and straight to the point, between 400 to 600 words
 While postmortem format can vary, stick to this one so that you can get properly reviewed by your peers.
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
+
+
+
+https://docs.google.com/document/d/1qkj8MjAsnHqr7sbax8-sRuc-pNlYlk_zduPc9-p8tbo/edit?usp=drivesdk
